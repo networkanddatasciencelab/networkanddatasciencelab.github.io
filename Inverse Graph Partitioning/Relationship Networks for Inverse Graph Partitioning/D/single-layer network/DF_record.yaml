@@ -1,0 +1,3602 @@
+!!python/object:networkx.classes.graph.Graph
+_adj:
+  1260: {}
+  1275: {}
+  1688: {}
+  1827:
+    1828: &id001 {}
+    2083: &id003 {}
+  1828:
+    1827: *id001
+    2083: &id004 {}
+  2038: {}
+  2039: {}
+  2054: {}
+  2060:
+    2078: &id002 {}
+    2111: &id005 {}
+  2074: {}
+  2078:
+    2060: *id002
+    2111: &id006 {}
+  2083:
+    1827: *id003
+    1828: *id004
+  2111:
+    2060: *id005
+    2078: *id006
+  2554: {}
+  2635: {}
+  2636: {}
+  2720: {}
+  2740: {}
+  2780: {}
+  2942: {}
+  2943: {}
+  2945: {}
+  3055: {}
+  3243: {}
+  3265: {}
+  3304: {}
+  3329:
+    3937: &id009 {}
+  3433: {}
+  3444:
+    3504: &id007 {}
+  3504:
+    3444: *id007
+  3505: {}
+  3533: {}
+  3622: {}
+  3626: {}
+  3663:
+    3664: &id008 {}
+  3664:
+    3663: *id008
+  3748: {}
+  3749: {}
+  3750: {}
+  3864: {}
+  3902: {}
+  3937:
+    3329: *id009
+  3949: {}
+  4090: {}
+  4187: {}
+  4234:
+    4288: &id017 {}
+  4237:
+    4238: &id010 {}
+    4240: &id011 {}
+    4244: &id013 {}
+  4238:
+    4237: *id010
+    4240: &id012 {}
+    4244: &id014 {}
+  4239: {}
+  4240:
+    4237: *id011
+    4238: *id012
+    4244: &id015 {}
+  4241: {}
+  4243: {}
+  4244:
+    4237: *id013
+    4238: *id014
+    4240: *id015
+  4272:
+    4276: &id016 {}
+  4274: {}
+  4276:
+    4272: *id016
+  4277: {}
+  4288:
+    4234: *id017
+  4331:
+    4333: &id018 {}
+  4333:
+    4331: *id018
+  4351: {}
+  4401: {}
+  4418: {}
+  4479: {}
+  4505: {}
+  4513: {}
+  4545: {}
+  4568: {}
+  4609:
+    5177: &id019 {}
+  4689: {}
+  4766: {}
+  4797: {}
+  4813: {}
+  4823: {}
+  4837: {}
+  4867: {}
+  5016: {}
+  5051: {}
+  5086: {}
+  5092: {}
+  5129: {}
+  5131: {}
+  5135: {}
+  5138: {}
+  5141: {}
+  5142: {}
+  5144: {}
+  5145: {}
+  5177:
+    4609: *id019
+  5211: {}
+  5284: {}
+  5324:
+    5325: &id020 {}
+  5325:
+    5324: *id020
+  5340: {}
+  5357:
+    5359: &id021 {}
+  5359:
+    5357: *id021
+  5380: {}
+  5392: {}
+  5394: {}
+  5408: {}
+  5457: {}
+  5458: {}
+  5487: {}
+  5500: {}
+  5505: {}
+  5524: {}
+  5542: {}
+  5563: {}
+  5574: {}
+  5581: {}
+  5586: {}
+  5628: {}
+  5635: {}
+  5645: {}
+  5646: {}
+  5662:
+    5663: &id022 {}
+    5734: &id023 {}
+  5663:
+    5662: *id022
+    5734: &id024 {}
+  5664: {}
+  5670: {}
+  5718: {}
+  5725: {}
+  5731: {}
+  5734:
+    5662: *id023
+    5663: *id024
+  5745: {}
+  5755: {}
+  5775: {}
+  5779: {}
+  5782: {}
+  5786: {}
+  5791: {}
+  5801: {}
+  5833: {}
+  5837: {}
+  5844: {}
+  5856: {}
+  5981: {}
+  6040: {}
+  6072: {}
+  6094: {}
+  6097: {}
+  6137: {}
+  6186:
+    6319: &id025 {}
+    6320: &id026 {}
+  6204: {}
+  6249: {}
+  6280: {}
+  6297: {}
+  6304: {}
+  6318: {}
+  6319:
+    6186: *id025
+    6320: &id027 {}
+  6320:
+    6186: *id026
+    6319: *id027
+  6323: {}
+  6326:
+    6327: &id028 {}
+    6328: &id029 {}
+  6327:
+    6326: *id028
+    6328: &id030 {}
+  6328:
+    6326: *id029
+    6327: *id030
+  6374: {}
+  6390: {}
+  6403: {}
+  6409: {}
+  6410: {}
+  6427: {}
+  6437: {}
+  6442: {}
+  6443:
+    6445: &id031 {}
+  6445:
+    6443: *id031
+  6448: {}
+  6451: {}
+  6453: {}
+  6454: {}
+  6456: {}
+  6478:
+    6479: &id032 {}
+    6484: &id033 {}
+    6485: &id035 {}
+    6487: &id038 {}
+    6489: &id042 {}
+    6491: &id047 {}
+    6492: &id053 {}
+    6595: &id060 {}
+    6596: &id068 {}
+  6479:
+    6478: *id032
+    6484: &id034 {}
+    6485: &id036 {}
+    6487: &id039 {}
+    6489: &id043 {}
+    6491: &id048 {}
+    6492: &id054 {}
+    6595: &id061 {}
+    6596: &id069 {}
+  6484:
+    6478: *id033
+    6479: *id034
+    6485: &id037 {}
+    6487: &id040 {}
+    6489: &id044 {}
+    6491: &id049 {}
+    6492: &id055 {}
+    6595: &id062 {}
+    6596: &id070 {}
+  6485:
+    6478: *id035
+    6479: *id036
+    6484: *id037
+    6487: &id041 {}
+    6489: &id045 {}
+    6491: &id050 {}
+    6492: &id056 {}
+    6595: &id063 {}
+    6596: &id071 {}
+  6487:
+    6478: *id038
+    6479: *id039
+    6484: *id040
+    6485: *id041
+    6489: &id046 {}
+    6491: &id051 {}
+    6492: &id057 {}
+    6595: &id064 {}
+    6596: &id072 {}
+  6488: {}
+  6489:
+    6478: *id042
+    6479: *id043
+    6484: *id044
+    6485: *id045
+    6487: *id046
+    6491: &id052 {}
+    6492: &id058 {}
+    6595: &id065 {}
+    6596: &id073 {}
+  6491:
+    6478: *id047
+    6479: *id048
+    6484: *id049
+    6485: *id050
+    6487: *id051
+    6489: *id052
+    6492: &id059 {}
+    6595: &id066 {}
+    6596: &id074 {}
+  6492:
+    6478: *id053
+    6479: *id054
+    6484: *id055
+    6485: *id056
+    6487: *id057
+    6489: *id058
+    6491: *id059
+    6595: &id067 {}
+    6596: &id075 {}
+  6498: {}
+  6531: {}
+  6553: {}
+  6574: {}
+  6587: {}
+  6595:
+    6478: *id060
+    6479: *id061
+    6484: *id062
+    6485: *id063
+    6487: *id064
+    6489: *id065
+    6491: *id066
+    6492: *id067
+    6596: &id076 {}
+  6596:
+    6478: *id068
+    6479: *id069
+    6484: *id070
+    6485: *id071
+    6487: *id072
+    6489: *id073
+    6491: *id074
+    6492: *id075
+    6595: *id076
+  6597:
+    6808: &id081 {}
+  6613:
+    6614: &id077 {}
+  6614:
+    6613: *id077
+  6619: {}
+  6628:
+    6629: &id078 {}
+  6629:
+    6628: *id078
+  6647:
+    6648: &id079 {}
+  6648:
+    6647: *id079
+  6656: {}
+  6686: {}
+  6689: {}
+  6691: {}
+  6697: {}
+  6702: {}
+  6708: {}
+  6712: {}
+  6713: {}
+  6732: {}
+  6733:
+    6778: &id080 {}
+  6734: {}
+  6736: {}
+  6737: {}
+  6778:
+    6733: *id080
+  6780: {}
+  6792: {}
+  6805: {}
+  6808:
+    6597: *id081
+  6812: {}
+  6824: {}
+  6825: {}
+  6844: {}
+  6870: {}
+  6879: {}
+  6889: {}
+  6922: {}
+  6930:
+    6931: &id082 {}
+    6932: &id083 {}
+    6933: &id085 {}
+  6931:
+    6930: *id082
+    6932: &id084 {}
+    6933: &id086 {}
+  6932:
+    6930: *id083
+    6931: *id084
+    6933: &id087 {}
+  6933:
+    6930: *id085
+    6931: *id086
+    6932: *id087
+  6948: {}
+  6965:
+    6966: &id088 {}
+    6968: &id089 {}
+    6971: &id091 {}
+    6990: &id094 {}
+    6991: &id098 {}
+    6992: &id103 {}
+    6993: &id109 {}
+  6966:
+    6965: *id088
+    6968: &id090 {}
+    6971: &id092 {}
+    6990: &id095 {}
+    6991: &id099 {}
+    6992: &id104 {}
+    6993: &id110 {}
+  6968:
+    6965: *id089
+    6966: *id090
+    6971: &id093 {}
+    6990: &id096 {}
+    6991: &id100 {}
+    6992: &id105 {}
+    6993: &id111 {}
+  6971:
+    6965: *id091
+    6966: *id092
+    6968: *id093
+    6990: &id097 {}
+    6991: &id101 {}
+    6992: &id106 {}
+    6993: &id112 {}
+  6990:
+    6965: *id094
+    6966: *id095
+    6968: *id096
+    6971: *id097
+    6991: &id102 {}
+    6992: &id107 {}
+    6993: &id113 {}
+  6991:
+    6965: *id098
+    6966: *id099
+    6968: *id100
+    6971: *id101
+    6990: *id102
+    6992: &id108 {}
+    6993: &id114 {}
+  6992:
+    6965: *id103
+    6966: *id104
+    6968: *id105
+    6971: *id106
+    6990: *id107
+    6991: *id108
+    6993: &id115 {}
+  6993:
+    6965: *id109
+    6966: *id110
+    6968: *id111
+    6971: *id112
+    6990: *id113
+    6991: *id114
+    6992: *id115
+  7015:
+    7016: &id116 {}
+    7026: &id117 {}
+  7016:
+    7015: *id116
+    7026: &id118 {}
+  7020: {}
+  7026:
+    7015: *id117
+    7016: *id118
+  7037:
+    7038: &id119 {}
+  7038:
+    7037: *id119
+  7040: {}
+  7042: {}
+  7052: {}
+  7055: {}
+  7074: {}
+  7091:
+    7269: &id140 {}
+  7107:
+    7110: &id120 {}
+    7111: &id121 {}
+    7117: &id123 {}
+    7128: &id126 {}
+    7130: &id130 {}
+    7486: &id168 {}
+    7487: &id174 {}
+  7110:
+    7107: *id120
+    7111: &id122 {}
+    7117: &id124 {}
+    7128: &id127 {}
+    7130: &id131 {}
+    7486: &id169 {}
+    7487: &id175 {}
+  7111:
+    7107: *id121
+    7110: *id122
+    7117: &id125 {}
+    7128: &id128 {}
+    7130: &id132 {}
+    7486: &id170 {}
+    7487: &id176 {}
+  7117:
+    7107: *id123
+    7110: *id124
+    7111: *id125
+    7128: &id129 {}
+    7130: &id133 {}
+    7486: &id171 {}
+    7487: &id177 {}
+  7122: {}
+  7126: {}
+  7128:
+    7107: *id126
+    7110: *id127
+    7111: *id128
+    7117: *id129
+    7130: &id134 {}
+    7486: &id172 {}
+    7487: &id178 {}
+  7130:
+    7107: *id130
+    7110: *id131
+    7111: *id132
+    7117: *id133
+    7128: *id134
+    7486: &id173 {}
+    7487: &id179 {}
+  7137: {}
+  7138: {}
+  7141: {}
+  7149:
+    7154: &id135 {}
+    7288: &id141 {}
+  7154:
+    7149: *id135
+    7288: &id142 {}
+  7166:
+    7446: &id167 {}
+  7181: {}
+  7190: {}
+  7197: {}
+  7202: {}
+  7213:
+    7214: &id136 {}
+  7214:
+    7213: *id136
+  7219: {}
+  7221: {}
+  7224: {}
+  7225:
+    7340: &id143 {}
+  7228: {}
+  7231:
+    7232: &id137 {}
+    7244: &id138 {}
+  7232:
+    7231: *id137
+    7244: &id139 {}
+  7244:
+    7231: *id138
+    7232: *id139
+  7261: {}
+  7269:
+    7091: *id140
+  7270:
+    7360: &id144 {}
+  7272: {}
+  7273: {}
+  7275: {}
+  7288:
+    7149: *id141
+    7154: *id142
+  7312: {}
+  7336: {}
+  7339: {}
+  7340:
+    7225: *id143
+  7342:
+    7426: &id166 {}
+  7345: {}
+  7360:
+    7270: *id144
+  7365: {}
+  7367: {}
+  7369:
+    7381: &id145 {}
+    7382: &id146 {}
+    7383: &id148 {}
+    7384: &id151 {}
+    7385: &id155 {}
+    7386: &id160 {}
+  7381:
+    7369: *id145
+    7382: &id147 {}
+    7383: &id149 {}
+    7384: &id152 {}
+    7385: &id156 {}
+    7386: &id161 {}
+  7382:
+    7369: *id146
+    7381: *id147
+    7383: &id150 {}
+    7384: &id153 {}
+    7385: &id157 {}
+    7386: &id162 {}
+  7383:
+    7369: *id148
+    7381: *id149
+    7382: *id150
+    7384: &id154 {}
+    7385: &id158 {}
+    7386: &id163 {}
+  7384:
+    7369: *id151
+    7381: *id152
+    7382: *id153
+    7383: *id154
+    7385: &id159 {}
+    7386: &id164 {}
+  7385:
+    7369: *id155
+    7381: *id156
+    7382: *id157
+    7383: *id158
+    7384: *id159
+    7386: &id165 {}
+  7386:
+    7369: *id160
+    7381: *id161
+    7382: *id162
+    7383: *id163
+    7384: *id164
+    7385: *id165
+  7400: {}
+  7422: {}
+  7425: {}
+  7426:
+    7342: *id166
+  7427: {}
+  7431: {}
+  7434: {}
+  7437: {}
+  7442: {}
+  7443: {}
+  7446:
+    7166: *id167
+  7447: {}
+  7453: {}
+  7475: {}
+  7476: {}
+  7477: {}
+  7486:
+    7107: *id168
+    7110: *id169
+    7111: *id170
+    7117: *id171
+    7128: *id172
+    7130: *id173
+    7487: &id180 {}
+  7487:
+    7107: *id174
+    7110: *id175
+    7111: *id176
+    7117: *id177
+    7128: *id178
+    7130: *id179
+    7486: *id180
+  7529: {}
+  7530: {}
+  7536: {}
+  7540: {}
+  7541: {}
+  7544: {}
+  7548: {}
+  7587: {}
+  7611: {}
+_node: &id182
+  1260:
+    cause: '03060600'
+    education: '31'
+    hometown: 360000
+    id: 1260
+    nationality: 1
+    occupation: 99
+    record: 70
+    room: 10
+  1275:
+    cause: '06021000'
+    education: '10'
+    hometown: 420000
+    id: 1275
+    nationality: 1
+    occupation: 99
+    record: 214
+    room: 10
+  1688:
+    cause: '03020000'
+    education: '60'
+    hometown: 320583
+    id: 1688
+    nationality: 1
+    occupation: 99
+    record: 201
+    room: 10
+  1827:
+    cause: '03041100'
+    education: '20'
+    hometown: 500101
+    id: 1827
+    nationality: 1
+    occupation: 99
+    record: 37
+    room: 4
+  1828:
+    cause: '03041100'
+    education: '20'
+    hometown: 310107
+    id: 1828
+    nationality: 1
+    occupation: 99
+    record: 37
+    room: 1
+  2038:
+    cause: '03020000'
+    education: '20'
+    hometown: 320583
+    id: 2038
+    nationality: 1
+    occupation: 3
+    record: 46
+    room: 0
+  2039:
+    cause: '05010300'
+    education: '21'
+    hometown: 513030
+    id: 2039
+    nationality: 1
+    occupation: 6
+    record: 87
+    room: 1
+  2054:
+    cause: '03041100'
+    education: '20'
+    hometown: 310113
+    id: 2054
+    nationality: 1
+    occupation: 3
+    record: 116
+    room: 4
+  2060:
+    cause: 03080000
+    education: '20'
+    hometown: 370600
+    id: 2060
+    nationality: 1
+    occupation: 99
+    record: 35
+    room: 2
+  2074:
+    cause: '03041100'
+    education: '20'
+    hometown: 310000
+    id: 2074
+    nationality: 1
+    occupation: 2
+    record: 170
+    room: 9
+  2078:
+    cause: 03080000
+    education: '31'
+    hometown: 320928
+    id: 2078
+    nationality: 1
+    occupation: 3
+    record: 35
+    room: 7
+  2083:
+    cause: '03041100'
+    education: '39'
+    hometown: 350921
+    id: 2083
+    nationality: 22
+    occupation: 9
+    record: 37
+    room: 6
+  2111:
+    cause: 03080000
+    education: '31'
+    hometown: 350624
+    id: 2111
+    nationality: 1
+    occupation: 3
+    record: 35
+    room: 4
+  2554:
+    cause: '05010300'
+    education: '60'
+    hometown: 310104
+    id: 2554
+    nationality: 1
+    occupation: 99
+    record: 202
+    room: 5
+  2635:
+    cause: '05010300'
+    education: '30'
+    hometown: 430600
+    id: 2635
+    nationality: 1
+    occupation: 99
+    record: 118
+    room: 10
+  2636:
+    cause: '05010300'
+    education: '30'
+    hometown: 430981
+    id: 2636
+    nationality: 1
+    occupation: 3
+    record: 182
+    room: 9
+  2720:
+    cause: '03041100'
+    education: '30'
+    hometown: 330901
+    id: 2720
+    nationality: 1
+    occupation: 9
+    record: 28
+    room: 11
+  2740:
+    cause: '05010300'
+    education: '30'
+    hometown: 430581
+    id: 2740
+    nationality: 1
+    occupation: 99
+    record: 2
+    room: 11
+  2780:
+    cause: '03041100'
+    education: '60'
+    hometown: 352225
+    id: 2780
+    nationality: 1
+    occupation: 9
+    record: 66
+    room: 2
+  2942:
+    cause: '05010300'
+    education: '41'
+    hometown: 310113
+    id: 2942
+    nationality: 1
+    occupation: 9
+    record: 27
+    room: 2
+  2943:
+    cause: 03080600
+    education: '20'
+    hometown: 310000
+    id: 2943
+    nationality: 1
+    occupation: 3
+    record: 56
+    room: 1
+  2945:
+    cause: 03080600
+    education: '69'
+    hometown: 522624
+    id: 2945
+    nationality: 1
+    occupation: 9
+    record: 175
+    room: 3
+  3055:
+    cause: '03041100'
+    education: '70'
+    hometown: 330226
+    id: 3055
+    nationality: 1
+    occupation: 6
+    record: 86
+    room: 5
+  3243:
+    cause: '03020600'
+    education: '89'
+    hometown: 371326
+    id: 3243
+    nationality: 1
+    occupation: 9
+    record: 38
+    room: 0
+  3265:
+    cause: '05010700'
+    education: '20'
+    hometown: 362302
+    id: 3265
+    nationality: 1
+    occupation: 2
+    record: 166
+    room: 7
+  3304:
+    cause: '05010300'
+    education: '31'
+    hometown: 310101
+    id: 3304
+    nationality: 1
+    occupation: 9
+    record: 144
+    room: 10
+  3329:
+    cause: '03050100'
+    education: '70'
+    hometown: 131181
+    id: 3329
+    nationality: 1
+    occupation: 9
+    record: 239
+    room: 2
+  3433:
+    cause: '05010300'
+    education: '70'
+    hometown: 310113
+    id: 3433
+    nationality: 1
+    occupation: 8
+    record: 230
+    room: 11
+  3444:
+    cause: '05010300'
+    education: '30'
+    hometown: 421181
+    id: 3444
+    nationality: 1
+    occupation: 3
+    record: 233
+    room: 7
+  3504:
+    cause: '05010300'
+    education: '20'
+    hometown: 440800
+    id: 3504
+    nationality: 1
+    occupation: 99
+    record: 233
+    room: 5
+  3505:
+    cause: '05010300'
+    education: '30'
+    hometown: 440883
+    id: 3505
+    nationality: 1
+    occupation: 99
+    record: 197
+    room: 4
+  3533:
+    cause: 06080101
+    education: '20'
+    hometown: 222424
+    id: 3533
+    nationality: 10
+    occupation: 9
+    record: 16
+    room: 9
+  3622:
+    cause: '03041100'
+    education: '60'
+    hometown: 310000
+    id: 3622
+    nationality: 1
+    occupation: 2
+    record: 138
+    room: 10
+  3626:
+    cause: '05010300'
+    education: '60'
+    hometown: 360500
+    id: 3626
+    nationality: 1
+    occupation: 9
+    record: 205
+    room: 11
+  3663:
+    cause: '03041100'
+    education: '60'
+    hometown: 321100
+    id: 3663
+    nationality: 1
+    occupation: 8
+    record: 225
+    room: 11
+  3664:
+    cause: '03041100'
+    education: '30'
+    hometown: 320684
+    id: 3664
+    nationality: 1
+    occupation: 2
+    record: 225
+    room: 9
+  3748:
+    cause: '03041100'
+    education: '79'
+    hometown: 341182
+    id: 3748
+    nationality: 1
+    occupation: 9
+    record: 69
+    room: 6
+  3749:
+    cause: '03041100'
+    education: '79'
+    hometown: 310112
+    id: 3749
+    nationality: 1
+    occupation: 3
+    record: 61
+    room: 7
+  3750:
+    cause: '03041100'
+    education: '50'
+    hometown: 310000
+    id: 3750
+    nationality: 1
+    occupation: 3
+    record: 246
+    room: 3
+  3864:
+    cause: 03080600
+    education: '31'
+    hometown: 610502
+    id: 3864
+    nationality: 1
+    occupation: 99
+    record: 92
+    room: 0
+  3902:
+    cause: '05010300'
+    education: '30'
+    hometown: 310110
+    id: 3902
+    nationality: 1
+    occupation: 99
+    record: 117
+    room: 9
+  3937:
+    cause: '03050100'
+    education: '70'
+    hometown: 220182
+    id: 3937
+    nationality: 1
+    occupation: 9
+    record: 239
+    room: 4
+  3949:
+    cause: '03041100'
+    education: '30'
+    hometown: 350600
+    id: 3949
+    nationality: 1
+    occupation: 9
+    record: 247
+    room: 0
+  4090:
+    cause: '05010300'
+    education: '70'
+    hometown: 341500
+    id: 4090
+    nationality: 1
+    occupation: 3
+    record: 109
+    room: 4
+  4187:
+    cause: '05010300'
+    education: '70'
+    hometown: 310107
+    id: 4187
+    nationality: 1
+    occupation: 99
+    record: 22
+    room: 10
+  4234:
+    cause: '05010300'
+    education: '31'
+    hometown: 342623
+    id: 4234
+    nationality: 1
+    occupation: 9
+    record: 140
+    room: 5
+  4237:
+    cause: '05010300'
+    education: '69'
+    hometown: 361000
+    id: 4237
+    nationality: 1
+    occupation: 3
+    record: 163
+    room: 1
+  4238:
+    cause: '05010300'
+    education: '30'
+    hometown: 150000
+    id: 4238
+    nationality: 3
+    occupation: 9
+    record: 163
+    room: 7
+  4239:
+    cause: 03080400
+    education: '30'
+    hometown: 140000
+    id: 4239
+    nationality: 1
+    occupation: 3
+    record: 102
+    room: 3
+  4240:
+    cause: '05010300'
+    education: '89'
+    hometown: 360000
+    id: 4240
+    nationality: 1
+    occupation: 3
+    record: 163
+    room: 0
+  4241:
+    cause: '05010300'
+    education: '69'
+    hometown: 410000
+    id: 4241
+    nationality: 1
+    occupation: 9
+    record: 124
+    room: 6
+  4243:
+    cause: '05010300'
+    education: '30'
+    hometown: 341300
+    id: 4243
+    nationality: 1
+    occupation: 3
+    record: 90
+    room: 8
+  4244:
+    cause: '05010300'
+    education: '69'
+    hometown: 340300
+    id: 4244
+    nationality: 1
+    occupation: 3
+    record: 163
+    room: 4
+  4272:
+    cause: '05010300'
+    education: '70'
+    hometown: 341225
+    id: 4272
+    nationality: 1
+    occupation: 3
+    record: 216
+    room: 0
+  4274:
+    cause: '05010300'
+    education: '79'
+    hometown: 411528
+    id: 4274
+    nationality: 1
+    occupation: 3
+    record: 192
+    room: 2
+  4276:
+    cause: '05010300'
+    education: '60'
+    hometown: 431281
+    id: 4276
+    nationality: 12
+    occupation: 3
+    record: 216
+    room: 4
+  4277:
+    cause: 03080400
+    education: '70'
+    hometown: 411527
+    id: 4277
+    nationality: 1
+    occupation: 3
+    record: 209
+    room: 10
+  4288:
+    cause: '05010300'
+    education: '30'
+    hometown: 341022
+    id: 4288
+    nationality: 1
+    occupation: 2
+    record: 140
+    room: 4
+  4331:
+    cause: '03020000'
+    education: '70'
+    hometown: 510000
+    id: 4331
+    nationality: 1
+    occupation: 99
+    record: 232
+    room: 3
+  4333:
+    cause: '03020000'
+    education: '81'
+    hometown: 340421
+    id: 4333
+    nationality: 1
+    occupation: 99
+    record: 232
+    room: 6
+  4351:
+    cause: '05010300'
+    education: '30'
+    hometown: 320000
+    id: 4351
+    nationality: 1
+    occupation: 99
+    record: 94
+    room: 4
+  4401:
+    cause: 03080400
+    education: '30'
+    hometown: 530100
+    id: 4401
+    nationality: 1
+    occupation: 9
+    record: 33
+    room: 10
+  4418:
+    cause: '03050100'
+    education: '10'
+    hometown: 310000
+    id: 4418
+    nationality: 1
+    occupation: 99
+    record: 153
+    room: 10
+  4479:
+    cause: '05010300'
+    education: '70'
+    hometown: 220183
+    id: 4479
+    nationality: 1
+    occupation: 99
+    record: 39
+    room: 10
+  4505:
+    cause: '05010300'
+    education: '30'
+    hometown: 310101
+    id: 4505
+    nationality: 1
+    occupation: 9
+    record: 217
+    room: 6
+  4513:
+    cause: '05010300'
+    education: '30'
+    hometown: 310120
+    id: 4513
+    nationality: 1
+    occupation: 9
+    record: 93
+    room: 7
+  4545:
+    cause: '05010300'
+    education: '30'
+    hometown: 341500
+    id: 4545
+    nationality: 1
+    occupation: 99
+    record: 48
+    room: 11
+  4568:
+    cause: '05010300'
+    education: '20'
+    hometown: 330700
+    id: 4568
+    nationality: 1
+    occupation: 99
+    record: 96
+    room: 5
+  4609:
+    cause: '03050100'
+    education: '30'
+    hometown: 331082
+    id: 4609
+    nationality: 1
+    occupation: 99
+    record: 220
+    room: 0
+  4689:
+    cause: '05010300'
+    education: '89'
+    hometown: 360300
+    id: 4689
+    nationality: 1
+    occupation: 99
+    record: 168
+    room: 11
+  4766:
+    cause: '05010200'
+    education: '70'
+    hometown: 440582
+    id: 4766
+    nationality: 1
+    occupation: 99
+    record: 29
+    room: 7
+  4797:
+    cause: '03060700'
+    education: '30'
+    hometown: 330683
+    id: 4797
+    nationality: 1
+    occupation: 99
+    record: 108
+    room: 5
+  4813:
+    cause: 03080400
+    education: '60'
+    hometown: 420000
+    id: 4813
+    nationality: 1
+    occupation: 3
+    record: 26
+    room: 10
+  4823:
+    cause: '03060600'
+    education: '20'
+    hometown: 431126
+    id: 4823
+    nationality: 1
+    occupation: 1
+    record: 243
+    room: 10
+  4837:
+    cause: '03070200'
+    education: '20'
+    hometown: 510000
+    id: 4837
+    nationality: 1
+    occupation: 9
+    record: 74
+    room: 4
+  4867:
+    cause: '06070200'
+    education: '41'
+    hometown: 310109
+    id: 4867
+    nationality: 1
+    occupation: 99
+    record: 63
+    room: 10
+  5016:
+    cause: '03041100'
+    education: '40'
+    hometown: 310101
+    id: 5016
+    nationality: 1
+    occupation: 99
+    record: 91
+    room: 4
+  5051:
+    cause: 05010800
+    education: '30'
+    hometown: 310115
+    id: 5051
+    nationality: 1
+    occupation: 3
+    record: 54
+    room: 10
+  5086:
+    cause: '05010300'
+    education: '30'
+    hometown: 371300
+    id: 5086
+    nationality: 1
+    occupation: 99
+    record: 21
+    room: 7
+  5092:
+    cause: 03080400
+    education: '30'
+    hometown: 331000
+    id: 5092
+    nationality: 1
+    occupation: 99
+    record: 150
+    room: 6
+  5129:
+    cause: 03050800
+    education: '30'
+    hometown: 360100
+    id: 5129
+    nationality: 1
+    occupation: 99
+    record: 7
+    room: 0
+  5131:
+    cause: '05010300'
+    education: '20'
+    hometown: 210200
+    id: 5131
+    nationality: 11
+    occupation: 2
+    record: 12
+    room: 0
+  5135:
+    cause: 06080200
+    education: '70'
+    hometown: 320826
+    id: 5135
+    nationality: 1
+    occupation: 99
+    record: 59
+    room: 5
+  5138:
+    cause: '03041100'
+    education: '11'
+    hometown: 310112
+    id: 5138
+    nationality: 1
+    occupation: 2
+    record: 136
+    room: 1
+  5141:
+    cause: '06021401'
+    education: '70'
+    hometown: 810000
+    id: 5141
+    nationality: 1
+    occupation: 99
+    record: 177
+    room: 9
+  5142:
+    cause: '05010300'
+    education: '70'
+    hometown: 513822
+    id: 5142
+    nationality: 1
+    occupation: 99
+    record: 176
+    room: 6
+  5144:
+    cause: '03031000'
+    education: '11'
+    hometown: 510100
+    id: 5144
+    nationality: 1
+    occupation: 99
+    record: 245
+    room: 10
+  5145:
+    cause: '05010300'
+    education: '48'
+    hometown: 522200
+    id: 5145
+    nationality: 37
+    occupation: 99
+    record: 129
+    room: 4
+  5177:
+    cause: '03050100'
+    education: '10'
+    hometown: 341700
+    id: 5177
+    nationality: 1
+    occupation: 3
+    record: 220
+    room: 4
+  5211:
+    cause: '05010300'
+    education: '69'
+    hometown: 330822
+    id: 5211
+    nationality: 1
+    occupation: 3
+    record: 14
+    room: 0
+  5284:
+    cause: '05010300'
+    education: '60'
+    hometown: 321322
+    id: 5284
+    nationality: 1
+    occupation: 2
+    record: 154
+    room: 7
+  5324:
+    cause: '05010200'
+    education: '20'
+    hometown: 330900
+    id: 5324
+    nationality: 1
+    occupation: 99
+    record: 67
+    room: 11
+  5325:
+    cause: '05010200'
+    education: '20'
+    hometown: 210600
+    id: 5325
+    nationality: 1
+    occupation: 99
+    record: 67
+    room: 10
+  5340:
+    cause: 03080400
+    education: '89'
+    hometown: 330226
+    id: 5340
+    nationality: 1
+    occupation: 9
+    record: 231
+    room: 10
+  5357:
+    cause: '05010300'
+    education: '80'
+    hometown: 350900
+    id: 5357
+    nationality: 1
+    occupation: 99
+    record: 98
+    room: 1
+  5359:
+    cause: '05010300'
+    education: '71'
+    hometown: 210682
+    id: 5359
+    nationality: 1
+    occupation: 99
+    record: 98
+    room: 6
+  5380:
+    cause: '03041100'
+    education: '30'
+    hometown: 532522
+    id: 5380
+    nationality: 1
+    occupation: 9
+    record: 103
+    room: 15
+  5392:
+    cause: '05010300'
+    education: '70'
+    hometown: 220700
+    id: 5392
+    nationality: 1
+    occupation: 99
+    record: 36
+    room: 7
+  5394:
+    cause: 03080600
+    education: '90'
+    hometown: 341226
+    id: 5394
+    nationality: 1
+    occupation: 99
+    record: 25
+    room: 10
+  5408:
+    cause: '03070200'
+    education: '41'
+    hometown: 320300
+    id: 5408
+    nationality: 1
+    occupation: 99
+    record: 75
+    room: 6
+  5457:
+    cause: '05010300'
+    education: '70'
+    hometown: 500000
+    id: 5457
+    nationality: 1
+    occupation: 99
+    record: 6
+    room: 9
+  5458:
+    cause: '05010300'
+    education: '70'
+    hometown: 232722
+    id: 5458
+    nationality: 1
+    occupation: 99
+    record: 64
+    room: 9
+  5487:
+    cause: 06090105
+    education: '71'
+    hometown: 211322
+    id: 5487
+    nationality: 1
+    occupation: 99
+    record: 121
+    room: 9
+  5500:
+    cause: '05010300'
+    education: '41'
+    hometown: 500226
+    id: 5500
+    nationality: 1
+    occupation: 9
+    record: 41
+    room: 10
+  5505:
+    cause: '05011000'
+    education: '10'
+    hometown: 530100
+    id: 5505
+    nationality: 3
+    occupation: 6
+    record: 171
+    room: 8
+  5524:
+    cause: '06014504'
+    education: '70'
+    hometown: 310000
+    id: 5524
+    nationality: 1
+    occupation: 99
+    record: 211
+    room: 6
+  5542:
+    cause: '06015200'
+    education: '41'
+    hometown: 230700
+    id: 5542
+    nationality: 1
+    occupation: 9
+    record: 112
+    room: 8
+  5563:
+    cause: '05010300'
+    education: '70'
+    hometown: 500226
+    id: 5563
+    nationality: 1
+    occupation: 9
+    record: 42
+    room: 11
+  5574:
+    cause: '05010300'
+    education: '70'
+    hometown: 452229
+    id: 5574
+    nationality: 8
+    occupation: 9
+    record: 180
+    room: 11
+  5581:
+    cause: '03041100'
+    education: '20'
+    hometown: 420321
+    id: 5581
+    nationality: 1
+    occupation: 3
+    record: 105
+    room: 8
+  5586:
+    cause: '03041100'
+    education: '10'
+    hometown: 511724
+    id: 5586
+    nationality: 1
+    occupation: 99
+    record: 208
+    room: 7
+  5628:
+    cause: '05010300'
+    education: '80'
+    hometown: 442000
+    id: 5628
+    nationality: 1
+    occupation: 99
+    record: 210
+    room: 3
+  5635:
+    cause: '03070200'
+    education: '70'
+    hometown: 320381
+    id: 5635
+    nationality: 1
+    occupation: 9
+    record: 142
+    room: 1
+  5645:
+    cause: '03041100'
+    education: '20'
+    hometown: 341300
+    id: 5645
+    nationality: 1
+    occupation: 99
+    record: 165
+    room: 6
+  5646:
+    cause: '03041100'
+    education: '31'
+    hometown: 321283
+    id: 5646
+    nationality: 1
+    occupation: 3
+    record: 188
+    room: 9
+  5662:
+    cause: '06012400'
+    education: '70'
+    hometown: 131082
+    id: 5662
+    nationality: 1
+    occupation: 99
+    record: 13
+    room: 6
+  5663:
+    cause: '06012400'
+    education: '31'
+    hometown: 110113
+    id: 5663
+    nationality: 1
+    occupation: 99
+    record: 13
+    room: 2
+  5664:
+    cause: '03041100'
+    education: '28'
+    hometown: 321084
+    id: 5664
+    nationality: 1
+    occupation: 3
+    record: 107
+    room: 1
+  5670:
+    cause: '03041100'
+    education: '20'
+    hometown: 330382
+    id: 5670
+    nationality: 1
+    occupation: 9
+    record: 3
+    room: 0
+  5718:
+    cause: '05010300'
+    education: '30'
+    hometown: 440300
+    id: 5718
+    nationality: 1
+    occupation: 99
+    record: 143
+    room: 3
+  5725:
+    cause: '03070200'
+    education: '80'
+    hometown: 445200
+    id: 5725
+    nationality: 1
+    occupation: 99
+    record: 248
+    room: 7
+  5731:
+    cause: '03041100'
+    education: '30'
+    hometown: 360400
+    id: 5731
+    nationality: 1
+    occupation: 9
+    record: 128
+    room: 3
+  5734:
+    cause: '06012400'
+    education: '30'
+    hometown: 110108
+    id: 5734
+    nationality: 1
+    occupation: 99
+    record: 13
+    room: 5
+  5745:
+    cause: '05010300'
+    education: '20'
+    hometown: 320200
+    id: 5745
+    nationality: 1
+    occupation: 99
+    record: 227
+    room: 2
+  5755:
+    cause: '05010200'
+    education: '30'
+    hometown: 320800
+    id: 5755
+    nationality: 1
+    occupation: 99
+    record: 125
+    room: 10
+  5775:
+    cause: '03050100'
+    education: '30'
+    hometown: 421100
+    id: 5775
+    nationality: 1
+    occupation: 99
+    record: 179
+    room: 5
+  5779:
+    cause: '05010200'
+    education: '20'
+    hometown: 310109
+    id: 5779
+    nationality: 1
+    occupation: 3
+    record: 50
+    room: 2
+  5782:
+    cause: '05010300'
+    education: '41'
+    hometown: 320800
+    id: 5782
+    nationality: 1
+    occupation: 9
+    record: 223
+    room: 7
+  5786:
+    cause: '05010200'
+    education: '61'
+    hometown: 654223
+    id: 5786
+    nationality: 5
+    occupation: 99
+    record: 203
+    room: 11
+  5791:
+    cause: '03031000'
+    education: '11'
+    hometown: 310104
+    id: 5791
+    nationality: 1
+    occupation: 9
+    record: 237
+    room: 2
+  5801:
+    cause: 06080303
+    education: '70'
+    hometown: 512002
+    id: 5801
+    nationality: 1
+    occupation: 99
+    record: 115
+    room: 1
+  5833:
+    cause: '06010100'
+    education: '70'
+    hometown: 230422
+    id: 5833
+    nationality: 1
+    occupation: 99
+    record: 149
+    room: 1
+  5837:
+    cause: '03041100'
+    education: '20'
+    hometown: 320322
+    id: 5837
+    nationality: 1
+    occupation: 99
+    record: 126
+    room: 5
+  5844:
+    cause: '05010300'
+    education: '20'
+    hometown: 513225
+    id: 5844
+    nationality: 1
+    occupation: 9
+    record: 82
+    room: 5
+  5856:
+    cause: '05010300'
+    education: '41'
+    hometown: 421000
+    id: 5856
+    nationality: 1
+    occupation: 99
+    record: 18
+    room: 12
+  5981:
+    cause: '04010300'
+    education: '89'
+    hometown: 321300
+    id: 5981
+    nationality: 1
+    occupation: 9
+    record: 240
+    room: 11
+  6040:
+    cause: '05010300'
+    education: '30'
+    hometown: 510923
+    id: 6040
+    nationality: 1
+    occupation: 3
+    record: 20
+    room: 4
+  6072:
+    cause: '06015300'
+    education: '40'
+    hometown: 420983
+    id: 6072
+    nationality: 1
+    occupation: 99
+    record: 85
+    room: 3
+  6094:
+    cause: 06090105
+    education: '70'
+    hometown: 530000
+    id: 6094
+    nationality: 1
+    occupation: 9
+    record: 81
+    room: 11
+  6097:
+    cause: 06090105
+    education: '70'
+    hometown: 410825
+    id: 6097
+    nationality: 1
+    occupation: 99
+    record: 215
+    room: 11
+  6137:
+    cause: '05010200'
+    education: '30'
+    hometown: 460100
+    id: 6137
+    nationality: 1
+    occupation: 3
+    record: 156
+    room: 10
+  6186:
+    cause: '05010300'
+    education: '80'
+    hometown: 320500
+    id: 6186
+    nationality: 1
+    occupation: 9
+    record: 198
+    room: 1
+  6204:
+    cause: '05010300'
+    education: '70'
+    hometown: 361000
+    id: 6204
+    nationality: 1
+    occupation: 99
+    record: 8
+    room: 3
+  6249:
+    cause: '03041100'
+    education: '20'
+    hometown: 320922
+    id: 6249
+    nationality: 1
+    occupation: 2
+    record: 73
+    room: 8
+  6280:
+    cause: 06090105
+    education: '69'
+    hometown: 511321
+    id: 6280
+    nationality: 1
+    occupation: 9
+    record: 219
+    room: 11
+  6297:
+    cause: '05010300'
+    education: '79'
+    hometown: 341621
+    id: 6297
+    nationality: 1
+    occupation: 99
+    record: 23
+    room: 8
+  6304:
+    cause: '05010200'
+    education: '89'
+    hometown: 411426
+    id: 6304
+    nationality: 1
+    occupation: 99
+    record: 133
+    room: 9
+  6318:
+    cause: 06090500
+    education: '79'
+    hometown: 320682
+    id: 6318
+    nationality: 1
+    occupation: 99
+    record: 185
+    room: 13
+  6319:
+    cause: '05010300'
+    education: '20'
+    hometown: 330781
+    id: 6319
+    nationality: 1
+    occupation: 99
+    record: 198
+    room: 8
+  6320:
+    cause: '05010300'
+    education: '70'
+    hometown: 360424
+    id: 6320
+    nationality: 1
+    occupation: 99
+    record: 198
+    room: 8
+  6323:
+    cause: 06090300
+    education: '70'
+    hometown: 350824
+    id: 6323
+    nationality: 1
+    occupation: 99
+    record: 155
+    room: 9
+  6326:
+    cause: '06060704'
+    education: '20'
+    hometown: 620723
+    id: 6326
+    nationality: 1
+    occupation: 99
+    record: 40
+    room: 8
+  6327:
+    cause: '06060704'
+    education: '41'
+    hometown: 460100
+    id: 6327
+    nationality: 1
+    occupation: 99
+    record: 40
+    room: 8
+  6328:
+    cause: '06060704'
+    education: '20'
+    hometown: 460027
+    id: 6328
+    nationality: 1
+    occupation: 99
+    record: 40
+    room: 3
+  6374:
+    cause: '05010200'
+    education: '70'
+    hometown: 341282
+    id: 6374
+    nationality: 1
+    occupation: 9
+    record: 106
+    room: 9
+  6390:
+    cause: '05010200'
+    education: '30'
+    hometown: 211000
+    id: 6390
+    nationality: 11
+    occupation: 9
+    record: 193
+    room: 9
+  6403:
+    cause: 06090300
+    education: '49'
+    hometown: 350627
+    id: 6403
+    nationality: 1
+    occupation: 9
+    record: 190
+    room: 7
+  6409:
+    cause: '06012500'
+    education: '21'
+    hometown: 321100
+    id: 6409
+    nationality: 1
+    occupation: 9
+    record: 141
+    room: 12
+  6410:
+    cause: '06012500'
+    education: '31'
+    hometown: 310113
+    id: 6410
+    nationality: 1
+    occupation: 9
+    record: 127
+    room: 11
+  6427:
+    cause: 06090300
+    education: '30'
+    hometown: 430726
+    id: 6427
+    nationality: 15
+    occupation: 6
+    record: 229
+    room: 4
+  6437:
+    cause: 06090105
+    education: '79'
+    hometown: 411423
+    id: 6437
+    nationality: 1
+    occupation: 9
+    record: 187
+    room: 9
+  6442:
+    cause: 06090105
+    education: '79'
+    hometown: 410324
+    id: 6442
+    nationality: 1
+    occupation: 9
+    record: 191
+    room: 9
+  6443:
+    cause: '05010300'
+    education: '70'
+    hometown: 340223
+    id: 6443
+    nationality: 1
+    occupation: 9
+    record: 77
+    room: 1
+  6445:
+    cause: '05010300'
+    education: '70'
+    hometown: 340223
+    id: 6445
+    nationality: 1
+    occupation: 99
+    record: 77
+    room: 8
+  6448:
+    cause: 06090500
+    education: '70'
+    hometown: 320900
+    id: 6448
+    nationality: 1
+    occupation: 9
+    record: 53
+    room: 9
+  6451:
+    cause: 06090300
+    education: '70'
+    hometown: 360700
+    id: 6451
+    nationality: 1
+    occupation: 9
+    record: 83
+    room: 9
+  6453:
+    cause: '03041100'
+    education: '80'
+    hometown: 360425
+    id: 6453
+    nationality: 1
+    occupation: 99
+    record: 43
+    room: 6
+  6454:
+    cause: 06090500
+    education: '90'
+    hometown: 431028
+    id: 6454
+    nationality: 1
+    occupation: 99
+    record: 226
+    room: 11
+  6456:
+    cause: 06090105
+    education: '79'
+    hometown: 360727
+    id: 6456
+    nationality: 1
+    occupation: 9
+    record: 32
+    room: 0
+  6478:
+    cause: '03041100'
+    education: '20'
+    hometown: 320000
+    id: 6478
+    nationality: 1
+    occupation: 3
+    record: 134
+    room: 1
+  6479:
+    cause: '03041100'
+    education: '20'
+    hometown: 320600
+    id: 6479
+    nationality: 1
+    occupation: 9
+    record: 134
+    room: 5
+  6484:
+    cause: '03041100'
+    education: '30'
+    hometown: 350783
+    id: 6484
+    nationality: 1
+    occupation: 99
+    record: 134
+    room: 7
+  6485:
+    cause: '03041100'
+    education: '30'
+    hometown: 330000
+    id: 6485
+    nationality: 1
+    occupation: 3
+    record: 134
+    room: 3
+  6487:
+    cause: '03041100'
+    education: '30'
+    hometown: 321084
+    id: 6487
+    nationality: 1
+    occupation: 99
+    record: 134
+    room: 8
+  6488:
+    cause: 06090105
+    education: '79'
+    hometown: 511700
+    id: 6488
+    nationality: 1
+    occupation: 9
+    record: 0
+    room: 11
+  6489:
+    cause: '03041100'
+    education: '20'
+    hometown: 140100
+    id: 6489
+    nationality: 1
+    occupation: 99
+    record: 134
+    room: 2
+  6491:
+    cause: '03041100'
+    education: '30'
+    hometown: 310107
+    id: 6491
+    nationality: 1
+    occupation: 99
+    record: 134
+    room: 0
+  6492:
+    cause: '03041100'
+    education: '31'
+    hometown: 341225
+    id: 6492
+    nationality: 1
+    occupation: 3
+    record: 134
+    room: 6
+  6498:
+    cause: 06090105
+    education: '71'
+    hometown: 210502
+    id: 6498
+    nationality: 1
+    occupation: 9
+    record: 174
+    room: 7
+  6531:
+    cause: '05010300'
+    education: '60'
+    hometown: 370800
+    id: 6531
+    nationality: 1
+    occupation: 99
+    record: 110
+    room: 1
+  6553:
+    cause: '06015200'
+    education: '60'
+    hometown: 220581
+    id: 6553
+    nationality: 1
+    occupation: 99
+    record: 184
+    room: 5
+  6574:
+    cause: 06090105
+    education: '69'
+    hometown: 411100
+    id: 6574
+    nationality: 1
+    occupation: 99
+    record: 178
+    room: 3
+  6587:
+    cause: '05010200'
+    education: '30'
+    hometown: 370200
+    id: 6587
+    nationality: 1
+    occupation: 99
+    record: 173
+    room: 2
+  6595:
+    cause: '03041100'
+    education: '20'
+    hometown: 310109
+    id: 6595
+    nationality: 1
+    occupation: 99
+    record: 134
+    room: 5
+  6596:
+    cause: '03041100'
+    education: '60'
+    hometown: 310119
+    id: 6596
+    nationality: 1
+    occupation: 99
+    record: 134
+    room: 2
+  6597:
+    cause: 06090500
+    education: '69'
+    hometown: 429004
+    id: 6597
+    nationality: 1
+    occupation: 99
+    record: 204
+    room: 9
+  6613:
+    cause: 06090500
+    education: '48'
+    hometown: 450000
+    id: 6613
+    nationality: 1
+    occupation: 99
+    record: 167
+    room: 0
+  6614:
+    cause: 06090500
+    education: '41'
+    hometown: 330281
+    id: 6614
+    nationality: 1
+    occupation: 99
+    record: 167
+    room: 2
+  6619:
+    cause: '03070500'
+    education: '71'
+    hometown: 445381
+    id: 6619
+    nationality: 1
+    occupation: 99
+    record: 84
+    room: 7
+  6628:
+    cause: '06010100'
+    education: '70'
+    hometown: 371322
+    id: 6628
+    nationality: 1
+    occupation: 99
+    record: 145
+    room: 9
+  6629:
+    cause: '06010100'
+    education: '70'
+    hometown: 321321
+    id: 6629
+    nationality: 1
+    occupation: 99
+    record: 145
+    room: 11
+  6647:
+    cause: '03070200'
+    education: '70'
+    hometown: 450000
+    id: 6647
+    nationality: 8
+    occupation: 99
+    record: 213
+    room: 1
+  6648:
+    cause: '03070200'
+    education: '30'
+    hometown: 450000
+    id: 6648
+    nationality: 1
+    occupation: 99
+    record: 213
+    room: 7
+  6656:
+    cause: '05010300'
+    education: '49'
+    hometown: 410181
+    id: 6656
+    nationality: 1
+    occupation: 99
+    record: 44
+    room: 1
+  6686:
+    cause: 06080303
+    education: '80'
+    hometown: 231200
+    id: 6686
+    nationality: 1
+    occupation: 9
+    record: 172
+    room: 2
+  6689:
+    cause: '06015300'
+    education: '20'
+    hometown: 371081
+    id: 6689
+    nationality: 1
+    occupation: 6
+    record: 224
+    room: 0
+  6691:
+    cause: '05010200'
+    education: '20'
+    hometown: 220284
+    id: 6691
+    nationality: 1
+    occupation: 3
+    record: 132
+    room: 9
+  6697:
+    cause: '05010200'
+    education: '40'
+    hometown: 320921
+    id: 6697
+    nationality: 1
+    occupation: 9
+    record: 221
+    room: 11
+  6702:
+    cause: '06010100'
+    education: '79'
+    hometown: 411722
+    id: 6702
+    nationality: 1
+    occupation: 99
+    record: 99
+    room: 10
+  6708:
+    cause: 06090500
+    education: '79'
+    hometown: 430000
+    id: 6708
+    nationality: 13
+    occupation: 99
+    record: 139
+    room: 6
+  6712:
+    cause: 06090105
+    education: '79'
+    hometown: 130625
+    id: 6712
+    nationality: 1
+    occupation: 99
+    record: 244
+    room: 3
+  6713:
+    cause: '05010200'
+    education: '30'
+    hometown: 321323
+    id: 6713
+    nationality: 1
+    occupation: 9
+    record: 45
+    room: 0
+  6732:
+    cause: 06090105
+    education: '70'
+    hometown: 130131
+    id: 6732
+    nationality: 1
+    occupation: 9
+    record: 113
+    room: 6
+  6733:
+    cause: '06012500'
+    education: '79'
+    hometown: 429005
+    id: 6733
+    nationality: 1
+    occupation: 6
+    record: 79
+    room: 8
+  6734:
+    cause: '06015200'
+    education: '79'
+    hometown: 330283
+    id: 6734
+    nationality: 1
+    occupation: 9
+    record: 218
+    room: 7
+  6736:
+    cause: '05010200'
+    education: '70'
+    hometown: 652927
+    id: 6736
+    nationality: 5
+    occupation: 9
+    record: 199
+    room: 6
+  6737:
+    cause: '06012500'
+    education: '70'
+    hometown: 140311
+    id: 6737
+    nationality: 1
+    occupation: 9
+    record: 100
+    room: 8
+  6778:
+    cause: '06012500'
+    education: '79'
+    hometown: 429005
+    id: 6778
+    nationality: 1
+    occupation: 99
+    record: 79
+    room: 14
+  6780:
+    cause: '03021201'
+    education: '30'
+    hometown: 310115
+    id: 6780
+    nationality: 1
+    occupation: 2
+    record: 169
+    room: 1
+  6792:
+    cause: 06090500
+    education: '20'
+    hometown: 130523
+    id: 6792
+    nationality: 1
+    occupation: 99
+    record: 47
+    room: 4
+  6805:
+    cause: 06090500
+    education: '70'
+    hometown: 500112
+    id: 6805
+    nationality: 1
+    occupation: 99
+    record: 15
+    room: 4
+  6808:
+    cause: 06090500
+    education: '70'
+    hometown: 440700
+    id: 6808
+    nationality: 1
+    occupation: 99
+    record: 204
+    room: 11
+  6812:
+    cause: '03020000'
+    education: '60'
+    hometown: 710000
+    id: 6812
+    nationality: 1
+    occupation: 99
+    record: 11
+    room: 7
+  6824:
+    cause: '05010300'
+    education: '70'
+    hometown: 320800
+    id: 6824
+    nationality: 1
+    occupation: 99
+    record: 17
+    room: 5
+  6825:
+    cause: '05010300'
+    education: '41'
+    hometown: 350500
+    id: 6825
+    nationality: 1
+    occupation: 99
+    record: 189
+    room: 8
+  6844:
+    cause: '03070200'
+    education: '70'
+    hometown: 350722
+    id: 6844
+    nationality: 1
+    occupation: 99
+    record: 4
+    room: 2
+  6870:
+    cause: '06012500'
+    education: '41'
+    hometown: 210100
+    id: 6870
+    nationality: 1
+    occupation: 99
+    record: 181
+    room: 6
+  6879:
+    cause: '06070102'
+    education: '20'
+    hometown: 653001
+    id: 6879
+    nationality: 5
+    occupation: 99
+    record: 131
+    room: 8
+  6889:
+    cause: '05010200'
+    education: '80'
+    hometown: 341521
+    id: 6889
+    nationality: 1
+    occupation: 99
+    record: 62
+    room: 3
+  6922:
+    cause: '06014504'
+    education: '60'
+    hometown: 330000
+    id: 6922
+    nationality: 1
+    occupation: 8
+    record: 147
+    room: 3
+  6930:
+    cause: '03041100'
+    education: '60'
+    hometown: 310105
+    id: 6930
+    nationality: 1
+    occupation: 9
+    record: 235
+    room: 1
+  6931:
+    cause: '03041100'
+    education: '30'
+    hometown: 412828
+    id: 6931
+    nationality: 1
+    occupation: 99
+    record: 235
+    room: 8
+  6932:
+    cause: '03041100'
+    education: '20'
+    hometown: 441900
+    id: 6932
+    nationality: 1
+    occupation: 8
+    record: 235
+    room: 3
+  6933:
+    cause: '03041100'
+    education: '70'
+    hometown: 362421
+    id: 6933
+    nationality: 1
+    occupation: 9
+    record: 235
+    room: 15
+  6948:
+    cause: '06012500'
+    education: '40'
+    hometown: 320600
+    id: 6948
+    nationality: 1
+    occupation: 9
+    record: 95
+    room: 2
+  6965:
+    cause: '05010300'
+    education: '30'
+    hometown: 320922
+    id: 6965
+    nationality: 1
+    occupation: 99
+    record: 30
+    room: 2
+  6966:
+    cause: '05010300'
+    education: '30'
+    hometown: 430522
+    id: 6966
+    nationality: 1
+    occupation: 3
+    record: 30
+    room: 5
+  6968:
+    cause: '05010300'
+    education: '20'
+    hometown: 350681
+    id: 6968
+    nationality: 1
+    occupation: 3
+    record: 30
+    room: 0
+  6971:
+    cause: '05010300'
+    education: '30'
+    hometown: 210681
+    id: 6971
+    nationality: 1
+    occupation: 3
+    record: 30
+    room: 1
+  6990:
+    cause: '05010300'
+    education: '20'
+    hometown: 410526
+    id: 6990
+    nationality: 1
+    occupation: 3
+    record: 30
+    room: 8
+  6991:
+    cause: '05010300'
+    education: '30'
+    hometown: 342923
+    id: 6991
+    nationality: 1
+    occupation: 3
+    record: 30
+    room: 15
+  6992:
+    cause: '05010300'
+    education: '21'
+    hometown: 321023
+    id: 6992
+    nationality: 1
+    occupation: 99
+    record: 30
+    room: 7
+  6993:
+    cause: '05010300'
+    education: '21'
+    hometown: 320322
+    id: 6993
+    nationality: 1
+    occupation: 99
+    record: 30
+    room: 6
+  7015:
+    cause: '06015300'
+    education: '70'
+    hometown: 230406
+    id: 7015
+    nationality: 1
+    occupation: 9
+    record: 137
+    room: 2
+  7016:
+    cause: '06015300'
+    education: '71'
+    hometown: 320900
+    id: 7016
+    nationality: 1
+    occupation: 99
+    record: 137
+    room: 5
+  7020:
+    cause: '05010300'
+    education: '21'
+    hometown: 450325
+    id: 7020
+    nationality: 1
+    occupation: 99
+    record: 58
+    room: 3
+  7026:
+    cause: '06015300'
+    education: '70'
+    hometown: 330483
+    id: 7026
+    nationality: 1
+    occupation: 9
+    record: 137
+    room: 3
+  7037:
+    cause: '03041100'
+    education: '30'
+    hometown: 310109
+    id: 7037
+    nationality: 1
+    occupation: 2
+    record: 234
+    room: 8
+  7038:
+    cause: '03041100'
+    education: '20'
+    hometown: 310112
+    id: 7038
+    nationality: 1
+    occupation: 2
+    record: 234
+    room: 5
+  7040:
+    cause: 03020901
+    education: '60'
+    hometown: 330782
+    id: 7040
+    nationality: 1
+    occupation: 9
+    record: 200
+    room: 1
+  7042:
+    cause: '03021201'
+    education: '20'
+    hometown: 342601
+    id: 7042
+    nationality: 1
+    occupation: 3
+    record: 161
+    room: 1
+  7052:
+    cause: '05010200'
+    education: '90'
+    hometown: 321200
+    id: 7052
+    nationality: 1
+    occupation: 99
+    record: 119
+    room: 6
+  7055:
+    cause: '03070200'
+    education: '70'
+    hometown: 330300
+    id: 7055
+    nationality: 1
+    occupation: 9
+    record: 65
+    room: 0
+  7074:
+    cause: 06090500
+    education: '49'
+    hometown: 140981
+    id: 7074
+    nationality: 1
+    occupation: 99
+    record: 157
+    room: 6
+  7091:
+    cause: 06090105
+    education: '41'
+    hometown: 430726
+    id: 7091
+    nationality: 1
+    occupation: 99
+    record: 51
+    room: 5
+  7107:
+    cause: '05010300'
+    education: '30'
+    hometown: 511923
+    id: 7107
+    nationality: 1
+    occupation: 99
+    record: 24
+    room: 2
+  7110:
+    cause: '05010300'
+    education: '30'
+    hometown: 513030
+    id: 7110
+    nationality: 1
+    occupation: 99
+    record: 24
+    room: 3
+  7111:
+    cause: '05010300'
+    education: '70'
+    hometown: 450600
+    id: 7111
+    nationality: 1
+    occupation: 99
+    record: 24
+    room: 8
+  7117:
+    cause: '05010300'
+    education: '30'
+    hometown: 513723
+    id: 7117
+    nationality: 1
+    occupation: 99
+    record: 24
+    room: 6
+  7122:
+    cause: '05010300'
+    education: '39'
+    hometown: 350100
+    id: 7122
+    nationality: 1
+    occupation: 99
+    record: 34
+    room: 4
+  7126:
+    cause: '03020000'
+    education: '40'
+    hometown: 310108
+    id: 7126
+    nationality: 1
+    occupation: 99
+    record: 135
+    room: 3
+  7128:
+    cause: '05010300'
+    education: '30'
+    hometown: 510800
+    id: 7128
+    nationality: 1
+    occupation: 99
+    record: 24
+    room: 4
+  7130:
+    cause: '05010300'
+    education: '30'
+    hometown: 511900
+    id: 7130
+    nationality: 1
+    occupation: 99
+    record: 24
+    room: 0
+  7137:
+    cause: '05010200'
+    education: '20'
+    hometown: 120102
+    id: 7137
+    nationality: 1
+    occupation: 99
+    record: 104
+    room: 0
+  7138:
+    cause: '05010300'
+    education: '88'
+    hometown: 522631
+    id: 7138
+    nationality: 1
+    occupation: 99
+    record: 130
+    room: 5
+  7141:
+    cause: 06090500
+    education: '79'
+    hometown: 520300
+    id: 7141
+    nationality: 1
+    occupation: 99
+    record: 19
+    room: 5
+  7149:
+    cause: '03041100'
+    education: '60'
+    hometown: 513022
+    id: 7149
+    nationality: 1
+    occupation: 9
+    record: 55
+    room: 8
+  7154:
+    cause: '03041100'
+    education: '60'
+    hometown: 430524
+    id: 7154
+    nationality: 1
+    occupation: 9
+    record: 55
+    room: 4
+  7166:
+    cause: 06090500
+    education: '30'
+    hometown: 341222
+    id: 7166
+    nationality: 1
+    occupation: 9
+    record: 89
+    room: 0
+  7181:
+    cause: '05010300'
+    education: '70'
+    hometown: 420607
+    id: 7181
+    nationality: 1
+    occupation: 9
+    record: 196
+    room: 2
+  7190:
+    cause: '05010200'
+    education: '80'
+    hometown: 653123
+    id: 7190
+    nationality: 5
+    occupation: 9
+    record: 80
+    room: 2
+  7197:
+    cause: '02014700'
+    education: '30'
+    hometown: 310101
+    id: 7197
+    nationality: 1
+    occupation: 2
+    record: 151
+    room: 11
+  7202:
+    cause: '03070200'
+    education: '70'
+    hometown: 445221
+    id: 7202
+    nationality: 1
+    occupation: 3
+    record: 9
+    room: 8
+  7213:
+    cause: '03070200'
+    education: '71'
+    hometown: 412722
+    id: 7213
+    nationality: 1
+    occupation: 99
+    record: 68
+    room: 6
+  7214:
+    cause: '03070200'
+    education: '60'
+    hometown: 411381
+    id: 7214
+    nationality: 1
+    occupation: 9
+    record: 68
+    room: 12
+  7219:
+    cause: '06021400'
+    education: '80'
+    hometown: 445122
+    id: 7219
+    nationality: 1
+    occupation: 9
+    record: 10
+    room: 5
+  7221:
+    cause: '06070102'
+    education: '30'
+    hometown: 310115
+    id: 7221
+    nationality: 1
+    occupation: 9
+    record: 97
+    room: 1
+  7224:
+    cause: '03041100'
+    education: '10'
+    hometown: 330225
+    id: 7224
+    nationality: 1
+    occupation: 9
+    record: 194
+    room: 0
+  7225:
+    cause: 06090105
+    education: '79'
+    hometown: 530600
+    id: 7225
+    nationality: 1
+    occupation: 99
+    record: 76
+    room: 2
+  7228:
+    cause: '05010200'
+    education: '79'
+    hometown: 341300
+    id: 7228
+    nationality: 1
+    occupation: 99
+    record: 159
+    room: 0
+  7231:
+    cause: 06080303
+    education: '80'
+    hometown: 510100
+    id: 7231
+    nationality: 1
+    occupation: 99
+    record: 241
+    room: 8
+  7232:
+    cause: 06080303
+    education: '79'
+    hometown: 410423
+    id: 7232
+    nationality: 1
+    occupation: 99
+    record: 241
+    room: 12
+  7244:
+    cause: 06080303
+    education: '79'
+    hometown: 341400
+    id: 7244
+    nationality: 1
+    occupation: 99
+    record: 241
+    room: 12
+  7261:
+    cause: 06090105
+    education: '69'
+    hometown: 410326
+    id: 7261
+    nationality: 1
+    occupation: 99
+    record: 120
+    room: 7
+  7269:
+    cause: 06090105
+    education: '30'
+    hometown: 430802
+    id: 7269
+    nationality: 15
+    occupation: 99
+    record: 51
+    room: 14
+  7270:
+    cause: 06090105
+    education: '70'
+    hometown: 610728
+    id: 7270
+    nationality: 1
+    occupation: 99
+    record: 222
+    room: 6
+  7272:
+    cause: 06090105
+    education: '79'
+    hometown: 411400
+    id: 7272
+    nationality: 1
+    occupation: 99
+    record: 114
+    room: 3
+  7273:
+    cause: '05010300'
+    education: '70'
+    hometown: 320800
+    id: 7273
+    nationality: 1
+    occupation: 99
+    record: 160
+    room: 4
+  7275:
+    cause: '05010300'
+    education: '70'
+    hometown: 310105
+    id: 7275
+    nationality: 1
+    occupation: 99
+    record: 164
+    room: 3
+  7288:
+    cause: '03041100'
+    education: '70'
+    hometown: 511722
+    id: 7288
+    nationality: 1
+    occupation: 99
+    record: 55
+    room: 12
+  7312:
+    cause: 06090105
+    education: '79'
+    hometown: 152726
+    id: 7312
+    nationality: 1
+    occupation: 99
+    record: 206
+    room: 12
+  7336:
+    cause: '03070200'
+    education: '89'
+    hometown: 450981
+    id: 7336
+    nationality: 1
+    occupation: 99
+    record: 88
+    room: 12
+  7339:
+    cause: '03031000'
+    education: '20'
+    hometown: 321100
+    id: 7339
+    nationality: 1
+    occupation: 3
+    record: 212
+    room: 12
+  7340:
+    cause: 06090105
+    education: '79'
+    hometown: 410725
+    id: 7340
+    nationality: 1
+    occupation: 9
+    record: 76
+    room: 12
+  7342:
+    cause: '05010300'
+    education: '70'
+    hometown: 411081
+    id: 7342
+    nationality: 1
+    occupation: 9
+    record: 238
+    room: 12
+  7345:
+    cause: '05010300'
+    education: '30'
+    hometown: 452623
+    id: 7345
+    nationality: 8
+    occupation: 2
+    record: 146
+    room: 12
+  7360:
+    cause: 06090105
+    education: '41'
+    hometown: 450329
+    id: 7360
+    nationality: 1
+    occupation: 9
+    record: 222
+    room: 12
+  7365:
+    cause: '05010200'
+    education: '90'
+    hometown: 612425
+    id: 7365
+    nationality: 1
+    occupation: 99
+    record: 111
+    room: 12
+  7367:
+    cause: '03041100'
+    education: '30'
+    hometown: 621100
+    id: 7367
+    nationality: 1
+    occupation: 9
+    record: 195
+    room: 12
+  7369:
+    cause: '03070200'
+    education: '70'
+    hometown: 330181
+    id: 7369
+    nationality: 1
+    occupation: 9
+    record: 60
+    room: 12
+  7381:
+    cause: '03070200'
+    education: '61'
+    hometown: 330302
+    id: 7381
+    nationality: 1
+    occupation: 99
+    record: 60
+    room: 13
+  7382:
+    cause: '03070200'
+    education: '20'
+    hometown: 330302
+    id: 7382
+    nationality: 1
+    occupation: 99
+    record: 60
+    room: 12
+  7383:
+    cause: '03070200'
+    education: '41'
+    hometown: 330329
+    id: 7383
+    nationality: 1
+    occupation: 99
+    record: 60
+    room: 13
+  7384:
+    cause: '03070200'
+    education: '62'
+    hometown: 330300
+    id: 7384
+    nationality: 1
+    occupation: 99
+    record: 60
+    room: 15
+  7385:
+    cause: '03070200'
+    education: '79'
+    hometown: 341881
+    id: 7385
+    nationality: 1
+    occupation: 99
+    record: 60
+    room: 15
+  7386:
+    cause: '03070200'
+    education: '79'
+    hometown: 421300
+    id: 7386
+    nationality: 1
+    occupation: 99
+    record: 60
+    room: 13
+  7400:
+    cause: 06090300
+    education: '30'
+    hometown: 429004
+    id: 7400
+    nationality: 1
+    occupation: 99
+    record: 52
+    room: 15
+  7422:
+    cause: '03070200'
+    education: '20'
+    hometown: 340700
+    id: 7422
+    nationality: 1
+    occupation: 99
+    record: 228
+    room: 15
+  7425:
+    cause: '06012500'
+    education: '79'
+    hometown: 411023
+    id: 7425
+    nationality: 1
+    occupation: 99
+    record: 242
+    room: 13
+  7426:
+    cause: '05010300'
+    education: '79'
+    hometown: 411025
+    id: 7426
+    nationality: 3
+    occupation: 99
+    record: 238
+    room: 15
+  7427:
+    cause: 06090105
+    education: '79'
+    hometown: 532627
+    id: 7427
+    nationality: 8
+    occupation: 99
+    record: 72
+    room: 15
+  7431:
+    cause: '03041100'
+    education: '20'
+    hometown: 320800
+    id: 7431
+    nationality: 1
+    occupation: 99
+    record: 57
+    room: 15
+  7434:
+    cause: '05010300'
+    education: '41'
+    hometown: 341500
+    id: 7434
+    nationality: 1
+    occupation: 99
+    record: 31
+    room: 15
+  7437:
+    cause: '06010100'
+    education: '30'
+    hometown: 421100
+    id: 7437
+    nationality: 1
+    occupation: 99
+    record: 207
+    room: 15
+  7442:
+    cause: '03041100'
+    education: '30'
+    hometown: 230100
+    id: 7442
+    nationality: 1
+    occupation: 9
+    record: 183
+    room: 13
+  7443:
+    cause: '06013600'
+    education: '30'
+    hometown: 230100
+    id: 7443
+    nationality: 1
+    occupation: 99
+    record: 49
+    room: 13
+  7446:
+    cause: 06090500
+    education: '30'
+    hometown: 511822
+    id: 7446
+    nationality: 1
+    occupation: 9
+    record: 89
+    room: 15
+  7447:
+    cause: '06010100'
+    education: '89'
+    hometown: 360400
+    id: 7447
+    nationality: 1
+    occupation: 99
+    record: 5
+    room: 15
+  7453:
+    cause: '06010100'
+    education: '70'
+    hometown: 330400
+    id: 7453
+    nationality: 1
+    occupation: 99
+    record: 101
+    room: 15
+  7475:
+    cause: '05010300'
+    education: '60'
+    hometown: 610102
+    id: 7475
+    nationality: 1
+    occupation: 3
+    record: 71
+    room: 15
+  7476:
+    cause: '05010300'
+    education: '30'
+    hometown: 520100
+    id: 7476
+    nationality: 1
+    occupation: 9
+    record: 148
+    room: 15
+  7477:
+    cause: 06090105
+    education: '69'
+    hometown: 371425
+    id: 7477
+    nationality: 1
+    occupation: 9
+    record: 78
+    room: 15
+  7486:
+    cause: '05010300'
+    education: '69'
+    hometown: 440800
+    id: 7486
+    nationality: 1
+    occupation: 3
+    record: 24
+    room: 13
+  7487:
+    cause: '05010300'
+    education: '69'
+    hometown: 421100
+    id: 7487
+    nationality: 1
+    occupation: 9
+    record: 24
+    room: 15
+  7529:
+    cause: 06014800
+    education: '20'
+    hometown: 321081
+    id: 7529
+    nationality: 1
+    occupation: 3
+    record: 249
+    room: 15
+  7530:
+    cause: 06090105
+    education: '60'
+    hometown: 370200
+    id: 7530
+    nationality: 1
+    occupation: 6
+    record: 122
+    room: 15
+  7536:
+    cause: 06090105
+    education: '70'
+    hometown: 500225
+    id: 7536
+    nationality: 1
+    occupation: 9
+    record: 186
+    room: 15
+  7540:
+    cause: 06090105
+    education: '69'
+    hometown: 511381
+    id: 7540
+    nationality: 1
+    occupation: 99
+    record: 1
+    room: 13
+  7541:
+    cause: '03070200'
+    education: '40'
+    hometown: 440900
+    id: 7541
+    nationality: 1
+    occupation: 9
+    record: 158
+    room: 15
+  7544:
+    cause: 06090105
+    education: '70'
+    hometown: 370681
+    id: 7544
+    nationality: 1
+    occupation: 9
+    record: 162
+    room: 13
+  7548:
+    cause: '05010300'
+    education: '70'
+    hometown: 511024
+    id: 7548
+    nationality: 1
+    occupation: 9
+    record: 123
+    room: 13
+  7587:
+    cause: '06012500'
+    education: '20'
+    hometown: 341823
+    id: 7587
+    nationality: 1
+    occupation: 99
+    record: 152
+    room: 13
+  7611:
+    cause: 06090105
+    education: '79'
+    hometown: 220182
+    id: 7611
+    nationality: 1
+    occupation: 99
+    record: 236
+    room: 13
+adjlist_inner_dict_factory: &id181 !!python/name:builtins.dict ''
+adjlist_outer_dict_factory: *id181
+edge_attr_dict_factory: *id181
+graph: {}
+graph_attr_dict_factory: *id181
+node_attr_dict_factory: *id181
+node_dict_factory: *id181
+nodes: !!python/object:networkx.classes.reportviews.NodeView
+  _nodes: *id182
