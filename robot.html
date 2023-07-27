@@ -318,7 +318,7 @@
         let res = '';
         let dom = '';
         if (supportsWebSockets) {
-            ws = new WebSocket('ws://46b4d02d.r7.cpolar.top/local_doc_qa/stream-chat');
+            ws = new WebSocket('https://46b4d02d.r7.cpolar.top/local_doc_qa/stream-chat');
             ws.onopen = function () {
                 //当WebSocket创建成功时，触发onopen事件
                 console.log('websocket连接成功');
